@@ -1,16 +1,18 @@
-# eboy_app
+# eboy_app [Errand Boy]
 
-A new Flutter project.
+Errand Boy is a Premium domestic service and Lite Logistic/Delivery mobile app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Using this app Clients can order for errand
+pickups and also subscribe monthly for domestic 
+cleaning services.
 
-A few resources to get you started if this is your first Flutter project:
+## In-App Payment
+Users can pay securely using their debit cards.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Pros
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✓ Quick Errand Pickup and delivery.
+✓ Convenient scheduling using our mobile app
+✓ Simple and efficient to use mobile app
